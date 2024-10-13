@@ -40,7 +40,7 @@ namespace C_Sharp_Egitimi
             Console.WriteLine("-----------------------------------------------------\n");
 
             customer_name = "Aslan";
-            customer_surname = "Yılmaz";
+            customer_surname = "Yilmaz";
             customer_phone = "+90 500 400 30 20";
             customer_email = "deneme@gmail.com";
             district = "Buyuk Cekmece";
